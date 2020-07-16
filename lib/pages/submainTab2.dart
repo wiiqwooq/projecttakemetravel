@@ -11,7 +11,7 @@ class _SearchPageState extends State<SearchPage> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        body: Text("2"),
+        body: Text("1222222"),
       ),
     );
   }
