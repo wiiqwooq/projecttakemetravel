@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424023330025",
+    "firebase_url": "https://take-me-travel-68c24.firebaseio.com",
+    "project_id": "take-me-travel-68c24",
+    "storage_bucket": "take-me-travel-68c24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424023330025:android:565d402cf95e0c9b503478",
+        "android_client_info": {
+          "package_name": "com.example.projectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424023330025-gc3l177dgusc2415lq0ojhkopofebkvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4dzIl9UCpZ1x0vpPUIqHDCKmTPsmLSgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424023330025-gc3l177dgusc2415lq0ojhkopofebkvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
