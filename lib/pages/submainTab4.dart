@@ -18,7 +18,10 @@ class _ProfileState extends State<Profile> {
               children: <Widget>[
                 Text("Name:  Rosy   Smith"),
                 Text("Phone: 0991112222"),
-                
+                RaisedButton(
+                  onPressed: ()=>{},
+                  child: Text("Log out"),
+                  )            
               ],
             ),
           ),
